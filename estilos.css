@@ -10,5 +10,9 @@ padding:0;
      align-items: center;
      background-color: #444;
      color: white;
+     font-family: sans-serif;
      
+ }
+ h1{
+     font-size: 3rem;
  }
